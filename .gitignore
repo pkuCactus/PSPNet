@@ -1,0 +1,71 @@
+*.d
+
+*.slo
+*.lo
+*.o
+*.obj
+
+#python
+*.pyc
+
+#Precompiled Headers
+*.gch
+*.pch
+
+#Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#caffemodel
+*.caffemodel
+*.solverstate
+
+#python
+*.pyc
+*.npy
+
+#binary file
+*.bin
+
+#lmdb dataset
+*_lmdb
+
+#
+*.txt
+
+#matlab mat
+*.mat
+
+*snapshot*
+edge_*
+edge_*_mat
+image_*
+image_*_eval
+image*
+
+
+#temp files
+*~
+
+#build
+build
+.build*
+
+#matalb
+*.mexa*
